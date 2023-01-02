@@ -1,0 +1,5 @@
+The analysis is done in Matlab.
+
+In order to run the program, first load the .mat file which contains the data.
+
+After loading, the program can run and various graphs will also be plotted.
